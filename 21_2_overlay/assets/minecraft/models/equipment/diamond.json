@@ -1,0 +1,20 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "v1:diamond_wings",
+        "use_player_texture": false
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "diamond"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "diamond"
+      }
+    ]
+  }
+}

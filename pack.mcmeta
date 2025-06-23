@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "description": "§4§lULTRAKILL§r§f-ish Diamond§r§7 by §4§cpomy97",
+    "pack_format": 42,
+    "supported_formats": {
+      "min_inclusive": 42,
+      "max_inclusive": 63
+    }
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "21_2_overlay",
+        "formats": {
+          "min_inclusive": 42,
+          "max_inclusive": 43
+        }
+      }
+    ]
+  }
+}
